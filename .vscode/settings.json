@@ -1,0 +1,10 @@
+{
+    "python.venvPath": "D:/python/envs",
+    "python.venvFolders": [
+      "envs",
+      ".pyenv",
+      ".direnv",
+      ".env"
+    ],
+    "python.pythonPath": "D:\\python\\envs\\test1\\Scripts\\python.exe"
+  }
